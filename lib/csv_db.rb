@@ -1,4 +1,3 @@
-#require 'FasterCSV'
 module CsvDb
   module Helper
     def self.loader
